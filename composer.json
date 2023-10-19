@@ -1,0 +1,16 @@
+{
+    "name": "xtishka/inspire",
+    "description": "Simple package to inspire",
+    "autoload": {
+        "psr-4": {
+            "XTishka\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Takhir Berdyiev",
+            "email": "takhir.berdyiev@gmail.com"
+        }
+    ],
+    "require": {}
+}
